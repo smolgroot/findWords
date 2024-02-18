@@ -1,2 +1,2 @@
 # findWords
-Find all words from the dictionary based on a list of letters
+Find all dictionary words based on a list of letters
